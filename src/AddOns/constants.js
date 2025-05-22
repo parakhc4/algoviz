@@ -1,4 +1,9 @@
 export const particlesOptions = {
+  background: {
+    color: {
+      value: "#000000", // or any color you like
+    },
+  },
 	  particles: {
     "number": {
       "value": 150,

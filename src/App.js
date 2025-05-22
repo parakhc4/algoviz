@@ -5,7 +5,7 @@ import pathFinding from './PathFindingVisualizer/pathfindingVisualizer';
 import { BrowserRouter as Router, Switch, Route } from 'react-router-dom'; 
 import SortingVisualizer from './SortingVisualizer/SortingVisualizer';
 import {particlesOptions} from './AddOns/constants';
-import Particles from 'react-particles-js';
+import Particles from 'react-tsparticles';
 
 
 function App() {

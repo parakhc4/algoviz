@@ -2,7 +2,8 @@ import React from 'react';
 import Cards from './Cards.js';
 import './about.css';
 import {particlesOptions} from '../AddOns/constants';
-import Particles from 'react-particles-js';
+// Replaced with tsparticles
+import Particles from 'react-tsparticles';
 import Button from 'react-bootstrap/Button';
 import { Link } from 'react-router-dom'
 import 'bootstrap/dist/css/bootstrap.min.css';
@@ -32,7 +33,7 @@ export default class About extends React.Component{
 	      			<Button className="path-btn" type='submit'><h3>Visit Path Finding</h3></Button>
 	      		</Link>
 
-				<Particles className='particles' params={particlesOptions} />
+				<Particles className='particles' options={particlesOptions} />
 
 	      	</div>
 

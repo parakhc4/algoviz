@@ -50,7 +50,7 @@ body {
   background: #1569d8e1;  /* fallback for old browsers */
   background: -webkit-linear-gradient(to right, #000000, #0d0d0e);  /* Chrome 10-25, Safari 5.1-6 */  
   background: linear-gradient(to right, #030303, #020202); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-  position: fixed;
+  position: absolute;
   top: 0;
   right: 0;
   bottom: 0;

@@ -2,7 +2,8 @@ import React, { Component } from "react";
 import "./pathfindingVisualizer.css";
 import Node from "./Node/node";
 import { particlesOptions } from '../AddOns/constants';
-import Particles from 'react-particles-js';
+// replaced with tsparticles
+import Particles from 'react-tsparticles';
 import { algo } from './allAlgorithms_pathfinding';
 //Pathfinding Algorithms
 import {
@@ -424,7 +425,7 @@ class PathfindingVisualizer extends Component {
                             })}
                         </div>
                     </div>
-                    <Particles className="particles" params={particlesOptions} />
+                    <Particles className="particles" options={particlesOptions} />
                 </div>
             </div>
         );

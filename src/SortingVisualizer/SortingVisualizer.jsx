@@ -1,6 +1,6 @@
 import React from 'react';
 import { particlesOptions } from '../AddOns/constants';
-import Particles from 'react-particles-js';
+import Particles from 'react-tsparticles';
 import { getMergeSortAnimations } from '../SortingAlgorithms/MergeSort.js';
 import { getBubbleSortAnimations } from '../SortingAlgorithms/BubbleSort.js';
 import { getSelectionSortAnimations } from '../SortingAlgorithms/SelectionSort';
@@ -307,7 +307,7 @@ setTimeout(()=>{
                         }
                         <hr />
                     </div>
-                    <Particles className='particles' params={particlesOptions} />
+                    <Particles className='particles' options={particlesOptions} />
                 </div>
             </div>
         );

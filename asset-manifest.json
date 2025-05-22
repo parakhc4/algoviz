@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/algoviz/static/css/main.f6f1dcd3.chunk.css",
+    "main.js": "/algoviz/static/js/main.d395e0a2.chunk.js",
+    "main.js.map": "/algoviz/static/js/main.d395e0a2.chunk.js.map",
+    "runtime-main.js": "/algoviz/static/js/runtime-main.fa0b76b2.js",
+    "runtime-main.js.map": "/algoviz/static/js/runtime-main.fa0b76b2.js.map",
+    "static/css/2.1d1205f7.chunk.css": "/algoviz/static/css/2.1d1205f7.chunk.css",
+    "static/js/2.282e003b.chunk.js": "/algoviz/static/js/2.282e003b.chunk.js",
+    "static/js/2.282e003b.chunk.js.map": "/algoviz/static/js/2.282e003b.chunk.js.map",
+    "static/js/3.4c51d0c7.chunk.js": "/algoviz/static/js/3.4c51d0c7.chunk.js",
+    "static/js/3.4c51d0c7.chunk.js.map": "/algoviz/static/js/3.4c51d0c7.chunk.js.map",
+    "static/js/4.77c0d103.chunk.js": "/algoviz/static/js/4.77c0d103.chunk.js",
+    "static/js/4.77c0d103.chunk.js.map": "/algoviz/static/js/4.77c0d103.chunk.js.map",
+    "index.html": "/algoviz/index.html",
+    "static/css/2.1d1205f7.chunk.css.map": "/algoviz/static/css/2.1d1205f7.chunk.css.map",
+    "static/css/main.f6f1dcd3.chunk.css.map": "/algoviz/static/css/main.f6f1dcd3.chunk.css.map",
+    "static/js/2.282e003b.chunk.js.LICENSE.txt": "/algoviz/static/js/2.282e003b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fa0b76b2.js",
+    "static/css/2.1d1205f7.chunk.css",
+    "static/js/2.282e003b.chunk.js",
+    "static/css/main.f6f1dcd3.chunk.css",
+    "static/js/main.d395e0a2.chunk.js"
+  ]
+}
